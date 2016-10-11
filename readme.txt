@@ -41,9 +41,7 @@ $ cd build/bin/main
 然后运行第一个例子：
 $ ant -f runexample.xml -Dnumber=1
 结果如图：
-
-
-
+![res.jpg](http://upload-images.jianshu.io/upload_images/3261819-53fa1435d28df086.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 - ##Experimental experience——实验感想、实验心得
 感想就是，千万记得先配置好环境！因为我的Ubuntu是之前就有的，我就以为环境什么的都是有的了，没想到做到后面发现有各种问题和实验指导不同，找了很久没找到原因，那时才发现是因为没配置好环境。
